@@ -1,4 +1,4 @@
-algorithms.scala
+Algorithms.scala
 ================
 
 Algorithms in Scala
